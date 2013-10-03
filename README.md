@@ -1,9 +1,14 @@
-
 nv2D
 ===============
 NVIDIA (c) 2013
 
 Contact:  Rama Hoetzlein, rhoetzlein@nvidia.com
+
+NOTES:
+<b>Run the nv2d.exe to see what this demo does</b>
+
+<b>Only the OpenGL codepath is currently maintained. Please select 
+"Debug (OpenGL)" or "Release (OpenGL)" as the build option</b>
 
 This simple example demonstrates 2D drawing using an immediate-mode 
 style API, but with high performance rendering using OpenGL 4.x core 
