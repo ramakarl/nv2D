@@ -4,7 +4,7 @@ NVIDIA (c) 2013
 
 Contact:  Rama Hoetzlein, rhoetzlein@nvidia.com
 
-NOTES:
+<b>NOTES:</b><br>
 <b>Run the nv2d.exe to see what this demo does</b>
 
 <b>Only the OpenGL codepath is currently maintained. Please select 
